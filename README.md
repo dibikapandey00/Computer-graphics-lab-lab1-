@@ -1,1 +1,1 @@
-# Computer-graphics-lab-lab1-
+# Computer-graphics-lab1
